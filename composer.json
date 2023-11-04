@@ -15,10 +15,10 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Next Admin UI (Desktop Only)",
+            "title": "Next Admin UI Desktop Only",
             "category": "theme",
             "icon": {
-                "name": "fa fa-droplet",
+                "name": "fa fa-fill-drip",
                 "backgroundColor": "BLACK",
                 "color": "white"
             }
