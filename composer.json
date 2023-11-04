@@ -1,0 +1,33 @@
+{
+    "name": "betterflarum/nextadmintheme",
+    "description": "The NEXT Flarum Admin theme by fanmade - This still BETA so feel free to report bugs and suggest on Disscuss link",
+    "keywords": [
+        "flarum",
+		"nextui",
+		"admin",
+		"adminui"
+		"ui",
+		"betterflarum",
+		"beautiful"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/betterflarum/nextadmintheme",
+        "source": "https://github.com/betterflarum/nextadmintheme"
+    },
+    "require": {
+        "flarum/core": "*"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Next Admin UI (Desktop Only)",
+            "category": "theme",
+            "icon": {
+                "name": "fa fa-droplet",
+                "backgroundColor": "BLACK",
+                "color": "white"
+            }
+        }
+    }
+}
