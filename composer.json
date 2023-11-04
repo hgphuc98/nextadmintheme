@@ -2,13 +2,7 @@
     "name": "betterflarum/nextadmintheme",
     "description": "The NEXT Flarum Admin theme by fanmade - This still BETA so feel free to report bugs and suggest on Disscuss link",
     "keywords": [
-        "flarum",
-		"nextui",
-		"admin",
-		"adminui"
-		"ui",
-		"betterflarum",
-		"beautiful"
+        "nexttheme"
     ],
     "type": "flarum-extension",
     "license": "MIT",
@@ -24,7 +18,7 @@
             "title": "Next Admin UI (Desktop Only)",
             "category": "theme",
             "icon": {
-                "name": "fa fa-droplet",
+                "name": "fa fa-fill-drip",
                 "backgroundColor": "BLACK",
                 "color": "white"
             }
