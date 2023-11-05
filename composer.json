@@ -15,6 +15,13 @@
     "require": {
         "flarum/core": "*"
     },
+    "authors": [
+        {
+            "name": "BetterFlarum",
+            "email": "vnpedl@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "extra": {
         "flarum-extension": {
             "title": "Next Admin UI (Desktop Only)",
