@@ -1,6 +1,6 @@
 {
     "name": "betterflarum/nextadmintheme",
-    "description": "The NEXT Flarum Admin theme by fanmade - This still BETA so feel free to report bugs and suggest on Discuss link",
+    "description": "The NEXT Flarum Admin theme by fanmade - Feel free to report bugs and suggest on Discuss link",
   "keywords": [
     "flarum",
     "theme",
@@ -24,7 +24,7 @@
     ],
     "extra": {
         "flarum-extension": {
-            "title": "Next Admin UI (Desktop Only)",
+            "title": "Next Admin UI",
             "category": "theme",
             "icon": {
                 "name": "fa fa-fill-drip",
