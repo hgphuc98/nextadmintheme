@@ -1,5 +1,5 @@
 
-# BetterFLarum - Next Admin UI v2
+# BetterFLarum - Next Admin UI
 The NEXT Flarum Admin theme by fanmade. Revise the original admin dashboard
 
 ## First Look
@@ -9,39 +9,28 @@ The NEXT Flarum Admin theme by fanmade. Revise the original admin dashboard
 - Redesign Flarum admin dashboard interface
 - Customizable background images
 - Eye-catching motion effects
-- Friendly with multi devices
+- Friendly with vanilla Flarum 
 - Friendly with vanilla Flarum 
 - Supports Dark Mode
 ...
 And more tweaks. Explore itself !
 
-## Main dashboard (Desktop)
+## Main dashboard
 ![i](https://i.imgur.com/kRekGhO.png)
-## Main dashboard (Mobile)
-![i](https://i.imgur.com/7VJ38GA.jpeg)
-![i](https://i.imgur.com/kOSed5z.jpeg)
 
-## Appearance dashboard (Desktop)
+## Appearance dashboard
 ![i](https://i.imgur.com/gERiyrO.png)
 ![i](https://i.imgur.com/oodNNx7.png)
 ![i](https://i.imgur.com/LBFwOj1.png)
-## Appearance dashboard (Mobile)
-![i](https://i.imgur.com/MoxQMd6.jpeg)
 
 
-## Redesign Extension page (Desktop)
+## Redesign Extension page
 ![i](https://i.imgur.com/So92eBj.png)
 ![i](https://i.imgur.com/cnGCZX9.png)
 ![i](https://i.imgur.com/roEL9gg.png)
-## Redesign Extension page (Mobile)
-![i](https://i.imgur.com/EYPG0FY.jpeg)
 
-
-## Redesign Menu/Modals (Desktop)
+## Redesign Modals
 ![i](https://i.imgur.com/jDVoPQ4.png)
-## Redesign Menu/Modals (Mobile)
-![i](https://i.imgur.com/j2Rgb40.jpeg)
-
 
 ## Supports Dark Mode
 ![i](https://i.imgur.com/mXBM2bQ.png)
@@ -51,18 +40,21 @@ And more tweaks. Explore itself !
 
 
 ## Compatible
-- Now for both Desktop / Mobile!
+- For DESKTOP only (Mobile soon)
 - Any Flarum version
 - Simple, just install and enjoy!
 
 
 ## Installation
 ![i](https://i.imgur.com/kRekGhO.png)
-![i](https://i.imgur.com/7VJ38GA.jpeg)
 Look good? Install now to your Forum!
 
 ```sh
 composer require betterflarum/nextadmintheme
+```
+if have trouble, try:
+```sh
+composer require betterflarum/nextadmintheme:dev-main
 ```
 
 ## Update
@@ -79,5 +71,4 @@ php flarum cache:clear
 
 ## Links
 - [Packagist](https://packagist.org/packages/betterflarum/nextadmintheme)
-- [Discuss](https://discuss.flarum.org/d/33572-next-admin-ui)
 
